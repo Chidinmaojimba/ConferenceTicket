@@ -1,8 +1,8 @@
 import './App.css'
 import { Route, Routes } from 'react-router-dom';
-import { TicketSelection } from './Pages/TicketSelection';
-import { TicketDetails } from './Pages/TicketDetails';
-import { TicketConfirmation } from './Pages/TicketConfirmation';
+import { TicketSelection } from './pages/TicketSelection';
+import { TicketDetails } from './pages/TicketDetails';
+import { TicketConfirmation } from './pages/TicketConfirmation';
 function App() {
   return (
     <Routes>
